@@ -71,7 +71,7 @@ Your profile should look like the following:
 
 ## Completing the YML file
 
-The YML file it's comprised of 5 major sections: 
+The YML file its comprised of 5 major sections: 
 
 ```yml
 basic_info: Personal info.
